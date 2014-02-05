@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Concreteimpl
+Bundle-SymbolicName: cz.martinbayer.analyser.impl
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: cz.martinbayer.analyser;bundle-version="1.0.0"
+Export-Package: cz.martinbayer.analyser.impl
